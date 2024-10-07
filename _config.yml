@@ -1,7 +1,7 @@
 # Site settings
 title: Shiva Sreenivasan  # Replace with your name
 description: ML Researcher at NTU  # Replace with a short description
-url: "https://krishrocks11.github.io"  # Your GitHub Pages URL
+url: "https://www.linkedin.com/in/shiva-sreenivasan/" #"https://krishrocks11.github.io"  # Your GitHub Pages URL
 baseurl: "" # the subpath of your site, e.g. /blog
 
 show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
