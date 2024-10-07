@@ -1,0 +1,21 @@
+# Site settings
+title: Shiva Sreenivasan  # Replace with your name
+description: ML Researcher at NTU  # Replace with a short description
+url: "https://krishrocks11.github.io"  # Your GitHub Pages URL
+baseurl: "" # the subpath of your site, e.g. /blog
+
+show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
+
+# Theme settings (will vary depending on your chosen theme)
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# Author information
+author:
+  name: Shiva Sreenivasan
+  email: shiva005@e.ntu.edu.sg.com  # Replace with your email
+
+# Build settings
+markdown: kramdown
