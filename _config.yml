@@ -2,10 +2,10 @@
 title: Shiva Sreenivasan  # Replace with your name
 description: ML Researcher at NTU. Check out a paper I published - https://doi.org/10.1016/j.engappai.2023.106676  # Replace with a short description
 url: "https://www.linkedin.com/in/shiva-sreenivasan/" #"https://krishrocks11.github.io"  # Your GitHub Pages URL
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+#show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+#google_analytics: [Your Google Analytics tracking ID]
 
 # Theme settings (will vary depending on your chosen theme)
 remote_theme: pages-themes/cayman@v0.2.0
